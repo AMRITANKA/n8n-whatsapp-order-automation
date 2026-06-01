@@ -96,8 +96,8 @@ n8n-whatsapp-automation/
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/amritanka/n8n-whatsapp-automation.git
-cd n8n-whatsapp-automation
+git clone https://github.com/amritanka/n8n-whatsapp-order-automation.git
+cd n8n-whatsapp-order-automation
 npm install
 ```
 
